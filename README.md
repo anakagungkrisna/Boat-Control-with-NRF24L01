@@ -17,7 +17,7 @@ You can see the resulted boat that we make. my brother mainly focused on the des
 
 <img src = "Tampak depan samping.jpg">
 <img src = "Tampak samping.jpg">
-<img src = "foto bareng.jpg">
+<img src = "foto bareng.JPG">
 
 You can also see the boat in action in the MP4 files i provided in the repository. happy watching :)
 
