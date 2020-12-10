@@ -13,5 +13,8 @@ The schematic of the receiver looks like:
 
 For the receiver, it has one servo and 2 motor. the 2 motor will drive simultaneously to give more power for the boat. the servo will drive 60 degrees to the left or the right according to the input from the right joystick. 
 
-You can watch the remote control boat in action in the video i provide with the steps of how we built it.
+You can see the resulted boat that we make. my brother mainly focused on the design and body of the boat, while i focused mainly on the control system.
+
+<img src = "">
+<img src = "">
 
